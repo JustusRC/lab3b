@@ -1,4 +1,3 @@
-package lab3b;
 import java.util.Scanner ;
 
 
